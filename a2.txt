@@ -1,1 +1,5 @@
+this is modified <<<<<<< HEAD
 this is modified a2 again
+=======
+this is a2
+>>>>>>> car
